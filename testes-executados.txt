@@ -1,0 +1,19 @@
+Leilao (Alura\Leilao\test\model\Leilao)
+ [x] E Leilao Deve Receber lances with data set "mais de um lance"
+ [x] E Leilao Deve Apenas Um Lance with data set "Apenas um lance"
+ [x] Leilao Nao Deve Receber Lances Repetidos with data set "Lance Repetido"
+ [x] Leilao Nao Pode Receber Mais De Cinco Lances Do Mesmo Usuario with data set "mais de 5 lances"
+
+Avaliador (Alura\Leilao\test\service\Avaliador)
+ [x] Avaliador Verifica o Maior Lance with data set "ordem_crescente"
+ [x] Avaliador Verifica o Maior Lance with data set "ordem_decrescente"
+ [x] Avaliador Verifica o Maior Lance with data set "ordem_aleatoria"
+ [x] Avaliador Verifica o Menor Lance with data set "ordem_crescente"
+ [x] Avaliador Verifica o Menor Lance with data set "ordem_decrescente"
+ [x] Avaliador Verifica o Menor Lance with data set "ordem_aleatoria"
+ [x] Avaliador Verifica o Array Dos Tres Maiores Valores Estao Corretos with data set "ordem_crescente"
+ [x] Avaliador Verifica o Array Dos Tres Maiores Valores Estao Corretos with data set "ordem_decrescente"
+ [x] Avaliador Verifica o Array Dos Tres Maiores Valores Estao Corretos with data set "ordem_aleatoria"
+ [x] Avaliador Recebe Leilao Sem Lances
+ [x] Leilao Finalizado Nao Pode Ser Avaliado
+
